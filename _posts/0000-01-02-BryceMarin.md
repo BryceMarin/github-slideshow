@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My name is Bryce and I have an adorable puppy!
 Use the left arrow to go back!
